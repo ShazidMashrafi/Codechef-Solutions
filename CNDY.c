@@ -1,20 +1,20 @@
-#include <bits/stdc++.h>
-using namespace std;
+#include <stdio.h>
+#include<bool.h>
 
 int main()
 {
     int t;
-    cin >> t;
+    scanf("%d",&t);
     while (t--)
     {
         int n;
-        cin >> n;
+        scanf("%d",&n);
         int a[2 * n];
         int count;
         bool terminate= false;
         for (int i = 0; i < 2 * n; i++)
         {
-            cin >> a[i];
+            scanf("%d",&a[i]);
         }
         for (int i = 0; i < 2 * n; i++)
         {
@@ -36,8 +36,8 @@ int main()
         }
         output:
         if (count < 3)
-            cout << "Yes" << endl;
+            printf("Yes\n");
         else
-            cout << "No" << endl;
+            printf("No\n");
     }
 }
