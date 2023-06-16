@@ -90,6 +90,8 @@ Feel free to check these codes out.
 | CNDY | Candies | [Question](https://www.codechef.com/problems/CNDY) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/blob/master/Candies/CNDY.c)
 | TSTROBOT | Testing Robot | [Question](https://www.codechef.com/problems/TSTROBOT) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/blob/master/Testing%20Robot/TSTROBOT.c)
 | BALLOON | ICPC Balloons | [Question](https://www.codechef.com/problems/BALLOON) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/blob/master/ICPC%20Balloons/BALLOON.c)
+| CHEFDETE | Chef-Detective | [Question](https://www.codechef.com/problems/CHEFDETE) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/blob/master/Chef-Detective/CHEFDETE.cpp)
+| GCDQ | Gcd Queries | [Question](https://www.codechef.com/problems/GCDQ) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/blob/master/Gcd%20Queries/GCDQ.cpp)
 
 
 <br> 
