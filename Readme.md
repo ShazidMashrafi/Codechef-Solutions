@@ -1,9 +1,6 @@
-<div align="center">
-
 # Codechef Solutions
-</div>
 
-This repository contains my source codes of Codechef problems. They are in C language.  
+This repository contains my source codes of Codechef problems. They are in C and C++ language.  
 Feel free to check these codes out.
 
 <div align="center">
@@ -92,12 +89,17 @@ Feel free to check these codes out.
 | BALLOON | ICPC Balloons | [Question](https://www.codechef.com/problems/BALLOON) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/blob/master/ICPC%20Balloons/BALLOON.c)
 | CHEFDETE | Chef-Detective | [Question](https://www.codechef.com/problems/CHEFDETE) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/blob/master/Chef-Detective/CHEFDETE.cpp)
 | GCDQ | Gcd Queries | [Question](https://www.codechef.com/problems/GCDQ) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/blob/master/Gcd%20Queries/GCDQ.cpp)
-
+| CS2023_GIFT | The Gift | [Question](https://www.codechef.com/problems/CS2023_GIFT) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/blob/master/The%20Gift/CS2023_GIFT.cpp)
+| WEEDING | Weeding | [Question](https://www.codechef.com/problems/WEEDING) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/blob/master/Weeding/WEEDING.cpp)  
+| PILBELLS | Bells of Pilgrimage | [Question](https://www.codechef.com/START96D/problems/PILBELLS) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/blob/master/Bells%20of%20Pilgrimage/PILBELLS.cpp)  
+| ABDIFF | AB Difference | [Question](https://www.codechef.com/START96D/problems/ABDIFF) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/blob/master/AB%20Difference/ABDIFF.cpp)  
+| CS2023_STK | CodeChef Streak | [Question](https://www.codechef.com/START94D/problems/CS2023_STK) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/blob/master/CodeChef%20Streak/CS2023_STK.cpp)  
+| CS2023_GYM | Gymkhana Election IIIT-A | [Question](https://www.codechef.com/START94D/problems/CS2023_GYM) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/blob/master/Gymkhana%20Election%20IIIT-A/CS2023_GYM.cpp)
 
 <br> 
+</div>
 
 ## 🚀 About Me
-</div>
 
 I am Computer Science and Engineering student, working my way on the programming world.  
 Here is my [Github account](https://github.com/ShazidMashrafi) & my [Codechef account ](https://www.codechef.com/users/shazidmashrafi).  
