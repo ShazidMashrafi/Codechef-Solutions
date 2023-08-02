@@ -95,6 +95,10 @@ Feel free to check these codes out.
 | ABDIFF | AB Difference | [Question](https://www.codechef.com/START96D/problems/ABDIFF) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/blob/master/AB%20Difference/ABDIFF.cpp)  
 | CS2023_STK | CodeChef Streak | [Question](https://www.codechef.com/START94D/problems/CS2023_STK) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/blob/master/CodeChef%20Streak/CS2023_STK.cpp)  
 | CS2023_GYM | Gymkhana Election IIIT-A | [Question](https://www.codechef.com/START94D/problems/CS2023_GYM) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/blob/master/Gymkhana%20Election%20IIIT-A/CS2023_GYM.cpp)
+| DICEGAME2 | Best of Two | [Question](https://www.codechef.com/START97D/problems/DICEGAME2) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/blob/master/Best%20of%20two%202/DICEGAME2.cpp)
+| CHN15A | Mutated Minions | [Question](https://www.codechef.com/problems/CHN15A) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/blob/master/Mutated%20Minions/CHN15A.cpp)
+| RIP2000 | 2000 | [Question](https://www.codechef.com/START97D/problems/RIP2000) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/blob/master/2000/RIP2000.cpp)
+
 
 <br> 
 </div>
