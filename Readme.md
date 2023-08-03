@@ -98,9 +98,8 @@ Feel free to check these codes out.
 | DICEGAME2 | Best of Two | [Question](https://www.codechef.com/START97D/problems/DICEGAME2) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/blob/master/Best%20of%20two%202/DICEGAME2.cpp)
 | CHN15A | Mutated Minions | [Question](https://www.codechef.com/problems/CHN15A) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/blob/master/Mutated%20Minions/CHN15A.cpp)
 | RIP2000 | 2000 | [Question](https://www.codechef.com/START97D/problems/RIP2000) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/blob/master/2000/RIP2000.cpp)
+| TRICOIN | Coins and Triangle | [Question](https://www.codechef.com/problems/TRICOIN) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/blob/master/Coins%20And%20Triangle/TRICOIN.cpp)
 
-
-<br> 
 </div>
 
 ## 🚀 About Me
