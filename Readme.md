@@ -100,7 +100,10 @@ Feel free to check these codes out.
 | RIP2000 | 2000 | [Question](https://www.codechef.com/START97D/problems/RIP2000) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/blob/master/2000/RIP2000.cpp)
 | TRICOIN | Coins and Triangle | [Question](https://www.codechef.com/problems/TRICOIN) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/blob/master/Coins%20And%20Triangle/TRICOIN.cpp)
 | CHEFBOTTLE | Chef and Water Bottles | [Question](https://www.codechef.com/problems/CHEFBOTTLE) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/blob/master/Chef%20and%20Water%20Bottles/CHEFBOTTLE.cpp)
-
+| OCTOTHON | October Marathon | [Question](https://www.codechef.com/problems/OCTATHON) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/blob/master/October%20Marathon/OCTOTHON.cpp)
+| BRUNCH | Sunday Brunch | [Question](https://www.codechef.com/problems/BRUNCH) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/blob/master/Sunday%20Brunch/BRUNCH.cpp)
+| DICENUM | Dice Number | [Question](https://www.codechef.com/problems/DICENUM) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/blob/master/Dice%20Number/DICENUM.cpp)
+| DIVISIBLEBY8 | Divisible By 8| [Question](https://www.codechef.com/problems/DIVISIBLEBY8) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/blob/master/Divisible%20By%208/DIVISIBLEBY8.cpp)
 </div>
 
 ## 🚀 About Me
