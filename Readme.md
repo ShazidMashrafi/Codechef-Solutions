@@ -7,8 +7,8 @@ Feel free to check these codes out.
 
 ## Index
 
-| Problem ID| Problem Name    | Question                     | Solution                          |
-| ----------| ----------------|------------------------------|-----------------------------------|
+|  Problem ID  |  Problem Name  |  Question  |  Solution  |
+| :----------: | :------------: | :--------: | :--------: |
 | START01 | Number Mirror | [Question](https://www.codechef.com/problems/START01) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/blob/master/Number%20Mirror/START01.c)
 | GDTURN | Good Turn | [Question](https://www.codechef.com/problems/GDTURN) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/blob/master/Good%20Turn/GDTURN.c)
 | FLOW001 | Add Two Numbers | [Question](https://www.codechef.com/problems/FLOW001) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/blob/master/Add%20Two%20Numbers/FLOW001.c)
@@ -103,11 +103,11 @@ Feel free to check these codes out.
 | OCTOTHON | October Marathon | [Question](https://www.codechef.com/problems/OCTATHON) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/blob/master/October%20Marathon/OCTOTHON.cpp)
 | BRUNCH | Sunday Brunch | [Question](https://www.codechef.com/problems/BRUNCH) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/blob/master/Sunday%20Brunch/BRUNCH.cpp)
 | DICENUM | Dice Number | [Question](https://www.codechef.com/problems/DICENUM) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/blob/master/Dice%20Number/DICENUM.cpp)
-| DIVISIBLEBY8 | Divisible By 8| [Question](https://www.codechef.com/problems/DIVISIBLEBY8) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/blob/master/Divisible%20By%208/DIVISIBLEBY8.cpp)
+| DIVISIBLEBY8 | Divisible By 8 | [Question](https://www.codechef.com/problems/DIVISIBLEBY8) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/blob/master/Divisible%20By%208/DIVISIBLEBY8.cpp)
 </div>
 
 ## 🚀 About Me
 
 I am Computer Science and Engineering student, working my way on the programming world.  
 Here is my [Github account](https://github.com/ShazidMashrafi) & my [Codechef account ](https://www.codechef.com/users/shazidmashrafi).  
-Want to know more about me? Visit [My website](https://shazidmashrafi.com).  
+Want to know more about me? Visit [My website](https://shazidmashrafi.com).
