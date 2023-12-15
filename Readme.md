@@ -1,7 +1,8 @@
 # Codechef Solutions
 
 This repository contains my solution of Codechef problems. They are in C and C++ language.  
-If this repository helped you out, please consider giving it a :star:.
+
+#### If this repository helped you out, please consider giving it a :star:.
 
 <div align="center">
 
