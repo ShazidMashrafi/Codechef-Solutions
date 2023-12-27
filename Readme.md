@@ -6,7 +6,7 @@ This repository contains my solution of Codechef problems. They are in C and C++
 <div align="center">
 
 ## Index
-##### Sorted in Alphabetical order of Problem code
+##### Sorted by Alphabetical order of Problem code
 
 |  Problem Code  |  Problem Name  |  Question  |  Solution  |
 | :------------: | :------------: | :--------: | :--------: |
@@ -73,7 +73,7 @@ This repository contains my solution of Codechef problems. They are in C and C++
 | LUDO | Chef Plays Ludo | [Question](https://www.codechef.com/problems/LUDO) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/LUDO%20-%20Chef%20Plays%20Ludo)
 | MINHEIGHT | Roller Coaster | [Question](https://www.codechef.com/problems/MINHEIGHT) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/MINHEIGHT%20-%20Roller%20Coaster)
 | MINN00 | Minimum Number of Ones | [Question](https://www.codechef.com/problems/MINNOO) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/MINN00%20-%20Minimum%20Number%20of%20Ones)
-| MY1STCONTEST | My very 1st contest! | [Question](https://www.codechef.com/problems/MY1STCONTEST) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/MY1STCONTEST%20-%20My%20very%201st%20contest!)
+| MY1STCONTEST | My very 1st contest! | [Question](https://www.codechef.com/problems/MY1STCONTEST) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/MYQ1STCONTEST%20-%20My%20very%201st%20contest)
 | NEGPROD | Negative Product | [Question](https://www.codechef.com/problems/NEGPROD) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/NEGPROD%20-%20Negative%20Product)
 | NUM239 | Counting Pretty Numbers | [Question](https://www.codechef.com/problems/NUM239) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/NUM239%20-%20Counting%20Pretty%20Numbers)
 | OCTOTHON | October Marathon | [Question](https://www.codechef.com/problems/OCTATHON) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/OCTOTHON%20-%20October%20Marathon)
