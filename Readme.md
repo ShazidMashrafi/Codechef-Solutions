@@ -8,8 +8,8 @@ This repository contains my solution of Codechef problems. They are in C and C++
 ## Index
 ##### Sorted in Alphabetical order of Problem code
 
-|  Problem ID  |  Problem Name  |  Question  |  Solution  |
-| :----------: | :------------: | :--------: | :--------: |
+|  Problem Code  |  Problem Name  |  Question  |  Solution  |
+| :------------: | :------------: | :--------: | :--------: |
 | ABDIFF | AB Difference | [Question](https://www.codechef.com/START96D/problems/ABDIFF) | [Solution]
 | ACTEMP | Air Conditioner Temperature | [Question](https://www.codechef.com/problems/ACTEMP) | [Solution]
 | ADVANCE | Rating Improvement | [Question](https://www.codechef.com/problems/ADVANCE) | [Solution]
