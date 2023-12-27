@@ -10,101 +10,101 @@ This repository contains my solution of Codechef problems. They are in C and C++
 
 |  Problem Code  |  Problem Name  |  Question  |  Solution  |
 | :------------: | :------------: | :--------: | :--------: |
-| ABDIFF | AB Difference | [Question](https://www.codechef.com/START96D/problems/ABDIFF) | [Solution]
-| ACTEMP | Air Conditioner Temperature | [Question](https://www.codechef.com/problems/ACTEMP) | [Solution]
-| ADVANCE | Rating Improvement | [Question](https://www.codechef.com/problems/ADVANCE) | [Solution]
-| AGELIMIT | Age Limit | [Question](https://www.codechef.com/problems/AGELIMIT) | [Solution]
-| AUDIBLE | Audible Range | [Question](https://www.codechef.com/problems/AUDIBLE) | [Solution]
-| AVGPROBLEM | Greater Average | [Question](https://www.codechef.com/problems/AVGPROBLEM) | [Solution]
-| BALLOON | ICPC Balloons | [Question](https://www.codechef.com/problems/BALLOON) | [Solution]
-| BESTOFTWO | Best of Two | [Question](https://www.codechef.com/problems/BESTOFTWO) | [Solution]
-| BIRIYANI | Biryani classes | [Question](https://www.codechef.com/problems/BIRYANI) | [Solution]
-| BMI | Body Mass Index | [Question](https://www.codechef.com/problems/BMI) | [Solution]
-| BROKENPHONE | Broken Phone | [Question](https://www.codechef.com/problems/BROKENPHONE) | [Solution]
-| BRUNCH | Sunday Brunch | [Question](https://www.codechef.com/problems/BRUNCH) | [Solution]
-| BTRYHLTH | Battery Health | [Question](https://www.codechef.com/problems/BTRYHLTH) | [Solution] 
-| BULLET | Mario and Bullet | [Question](https://www.codechef.com/problems/BULLET) | [Solution]
-| BURGERS | Burgers | [Question](https://www.codechef.com/problems/BURGERS) | [Solution]
-| CBSPEED | Chef and Brain Speed | [Question](https://www.codechef.com/problems/CBSPEED) | [Solution]
-| CHEFBOTTLE | Chef and Water Bottles | [Question](https://www.codechef.com/problems/CHEFBOTTLE) | [Solution]
-| CHEFCAND | Chef and Candies | [Question](https://www.codechef.com/problems/CHEFCAND) | [Solution]
-| CHEFDETE | Chef-Detective | [Question](https://www.codechef.com/problems/CHEFDETE) | [Solution]
-| CHEFGAMES | Chefland Games | [Question](https://www.codechef.com/problems/CHEFGAMES) | [Solution]
-| CHEFONDATE | Chef On Date | [Question](https://www.codechef.com/problems/CHEFONDATE) | [Solution]
-| CHESSTIME | Chess Time | [Question](https://www.codechef.com/problems/CHESSTIME) | [Solution]
-| CHN15A | Mutated Minions | [Question](https://www.codechef.com/problems/CHN15A) | [Solution]
-| CHOPRT | Chef And Operators | [Question](https://www.codechef.com/problems/CHOPRT) | [Solution]
-| CNDY | Candies | [Question](https://www.codechef.com/problems/CNDY) | [Solution]
-| CNTWORD | Counting Words | [Question](https://www.codechef.com/problems/CNTWRD) | [Solution] 
-| CRICMATCH | Cricket Match | [Question](https://www.codechef.com/problems/CRICMATCH) | [Solution]
-| CS2023_GIFT | The Gift | [Question](https://www.codechef.com/problems/CS2023_GIFT) | [Solution]
-| CS2023_GYM | Gymkhana Election IIIT-A | [Question](https://www.codechef.com/START94D/problems/CS2023_GYM) | [Solution]
-| CS2023_STK | CodeChef Streak | [Question](https://www.codechef.com/START94D/problems/CS2023_STK) | [Solution]
-| DETSCORE | Determine the Score | [Question](https://www.codechef.com/problems/DETSCORE) | [Solution]
-| DICEGAME2 | Best of Two | [Question](https://www.codechef.com/START97D/problems/DICEGAME2) | [Solution]
-| DICENUM | Dice Number | [Question](https://www.codechef.com/problems/DICENUM) | [Solution]
-| DIVISIBLEBY8 | Divisible By 8 | [Question](https://www.codechef.com/problems/DIVISIBLEBY8) | [Solution]
-| DOLL | Red Light, Green Light | [Question](https://www.codechef.com/problems/DOLL) | [Solution]
-| EXPERT | Expert Setter | [Question](https://www.codechef.com/problems/EXPERT) | [Solution]
-| EXPIRY | Expiring Bread | [Question](https://www.codechef.com/problems/EXPIRY) | [Solution]
-| EZSPEAK | Easy Pronunciation | [Question](https://www.codechef.com/problems/EZSPEAK) | [Solution]
-| FIT | Fitness | [Question](https://www.codechef.com/problems/FIT) | [Solution]
-| FLOW001 | Add Two Numbers | [Question](https://www.codechef.com/problems/FLOW001) | [Solution]
-| FLOW002 | Find Remainder | [Question](https://www.codechef.com/problems/FLOW002) | [Solution]
-| FLOW004 | First and Last Digit | [Question](https://www.codechef.com/problems/FLOW004) | [Solution]
-| FLOW006 | Sum of Digits | [Question](https://www.codechef.com/problems/FLOW006) | [Solution]
-| FLOW007 | Reverse The Number | [Question](https://www.codechef.com/problems/FLOW007) | [Solution]
-| FLOW010 | ID and Ship | [Question](https://www.codechef.com/problems/FLOW010) | [Solution]
-| FLOW013 | Valid Triangles | [Question](https://www.codechef.com/problems/FLOW013) | [Solution]
-| FSQRT | Finding Square Roots | [Question](https://www.codechef.com/problems/FSQRT) | [Solution]
-| GCDQ | Gcd Queries | [Question](https://www.codechef.com/problems/GCDQ) | [Solution]
-| GDTURN | Good Turn | [Question](https://www.codechef.com/problems/GDTURN) | [Solution]
-| HAPPYSTR | Chef and Happy String | [Question](https://www.codechef.com/problems/HAPPYSTR) | [Solution]
-| HS08TEST | ATM | [Question](https://www.codechef.com/problems/HS08TEST) | [Solution]
-| INCRIQ | Increase IQ | [Question](https://www.codechef.com/problems/INCRIQ) | [Solution]
-| INSTAGRAM | Instagram | [Question](https://www.codechef.com/problems/INSTAGRAM) | [Solution]
-| INTEST | Enormous Input Test | [Question](https://www.codechef.com/problems/INTEST) | [Solution]
-| INVESTMENT | Good Investment or Not | [Question](https://www.codechef.com/problems/INVESTMENT) | [Solution] 
-| IPLTRSH | IPL Ticket Rush | [Question](https://www.codechef.com/problems/IPLTRSH) | [Solution]
-| JERRYCHASE | Tom and Jerry Chase | [Question](https://www.codechef.com/problems/JERRYCHASE) | [Solution]
-| KITCHENTIME | Kitchen Timings | [Question](https://www.codechef.com/problems/KITCHENTIME) | [Solution]
-| KNGTOUR | Tour of King | [Question](https://www.codechef.com/problems/KNGTOR) | [Solution]
-| LUCKFOUR | Lucky Four | [Question](https://www.codechef.com/problems/LUCKFOUR) | [Solution]
-| LUDO | Chef Plays Ludo | [Question](https://www.codechef.com/problems/LUDO) | [Solution]
-| MINHEIGHT | Roller Coaster | [Question](https://www.codechef.com/problems/MINHEIGHT) | [Solution]
-| MINN00 | Minimum Number of Ones | [Question](https://www.codechef.com/problems/MINNOO) | [Solution]
-| MY1STCONTEST | My very 1st contest! | [Question](https://www.codechef.com/problems/MY1STCONTEST) | [Solution] 
-| NEGPROD | Negative Product | [Question](https://www.codechef.com/problems/NEGPROD) | [Solution]
-| NUM239 | Counting Pretty Numbers | [Question](https://www.codechef.com/problems/NUM239) | [Solution]
-| OCTOTHON | October Marathon | [Question](https://www.codechef.com/problems/OCTATHON) | [Solution]
-| PAR2 | Parity | [Question](https://www.codechef.com/problems/PAR2) | [Solution]
-| PILBELLS | Bells of Pilgrimage | [Question](https://www.codechef.com/START96D/problems/PILBELLS) | [Solution] 
-| PRACLIST | How many unattempted problems | [Question](https://www.codechef.com/problems/PRACLIST) | [Solution] 
-| PRACTICEPERF | Practice makes us perfect | [Question](https://www.codechef.com/problems/PRACTICEPERF) | [Solution] 
-| PRIZEPOOL | Total Prize Money | [Question](https://www.codechef.com/problems/PRIZEPOOL) | [Solution]
-| RACE400M | 400M Race | [Question](https://www.codechef.com/problems/RACE400M) | [Solution]
-| REACHTARGET | Reach the Target | [Question](https://www.codechef.com/problems/REACHTARGET) | [Solution]
-| RIP2000 | 2000 | [Question](https://www.codechef.com/START97D/problems/RIP2000) | [Solution]
-| SALESEASON | Sale Season | [Question](https://www.codechef.com/problems/SALESEASON) | [Solution]
-| SIXFRIENDS | Six Friends | [Question](https://www.codechef.com/problems/SIXFRIENDS) | [Solution]
-| SLEEP | Sleep deprivation | [Question](https://www.codechef.com/problems/SLEEP) | [Solution]
-| SQUATS | Squats | [Question](https://www.codechef.com/problems/SQUATS) | [Solution]
-| START01 | Number Mirror | [Question](https://www.codechef.com/problems/START01) | [Solution]
-| SUGERCANE | Sugarcane Juice Business | [Question](https://www.codechef.com/problems/SUGARCANE) | [Solution] 
-| SUPCHEF | The Preparations | [Question](https://www.codechef.com/problems/SUPCHEF) | [Solution]
-| TALLER | Who is taller! | [Question](https://www.codechef.com/problems/TALLER) | [Solution]
-| TAXES | Tax in Chefland | [Question](https://www.codechef.com/problems/TAXES) | [Solution]
-| TAXGIVING | Saving Taxes | [Question](https://www.codechef.com/problems/TAXSAVING) | [Solution]
-| TESTAVG | Test Averages | [Question](https://www.codechef.com/problems/TESTAVG) | [Solution]
-| THREETOPICS | The Three Topics | [Question](https://www.codechef.com/problems/THREETOPICS) | [Solution]
-| TIMELY | Reach on Time | [Question](https://www.codechef.com/problems/TIMELY) | [Solution]
-| TODOLIST | Problems in your to-do list | [Question](https://www.codechef.com/problems/TODOLIST) | [Solution]
-| TRICOIN | Coins and Triangle | [Question](https://www.codechef.com/problems/TRICOIN) | [Solution]
-| TRUESCORE | Is the Score Consistent | [Question](https://www.codechef.com/problems/TRUESCORE) | [Solution]
-| TSTROBOT | Testing Robot | [Question](https://www.codechef.com/problems/TSTROBOT) | [Solution] 
-| WATERCONS | Water Consumption | [Question](https://www.codechef.com/problems/WATERCONS) | [Solution]
-| WEEDING | Weeding | [Question](https://www.codechef.com/problems/WEEDING) | [Solution]
-| WORDLE | Wordle | [Question](https://www.codechef.com/problems/WORDLE) | [Solution]
+| ABDIFF | AB Difference | [Question](https://www.codechef.com/START96D/problems/ABDIFF) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/ABDIFF%20-%20AB%20Difference)
+| ACTEMP | Air Conditioner Temperature | [Question](https://www.codechef.com/problems/ACTEMP) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/ACTEMP%20-%20Air%20Conditioner%20Temperature)
+| ADVANCE | Rating Improvement | [Question](https://www.codechef.com/problems/ADVANCE) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/ADVANCE%20-%20Rating%20Improvement)
+| AGELIMIT | Age Limit | [Question](https://www.codechef.com/problems/AGELIMIT) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/AGELIMIT%20-%20Age%20Limit)
+| AUDIBLE | Audible Range | [Question](https://www.codechef.com/problems/AUDIBLE) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/AUDIBLE%20-%20Audible%20Range)
+| AVGPROBLEM | Greater Average | [Question](https://www.codechef.com/problems/AVGPROBLEM) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/AVGPROBLEM%20-%20Greater%20Average)
+| BALLOON | ICPC Balloons | [Question](https://www.codechef.com/problems/BALLOON) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/BALLOON%20-%20ICPC%20Balloons)
+| BESTOFTWO | Best of Two | [Question](https://www.codechef.com/problems/BESTOFTWO) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/BESTOFTWO%20-%20Best%20of%20Two)
+| BIRIYANI | Biryani classes | [Question](https://www.codechef.com/problems/BIRYANI) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/BIRIYANI%20-%20Biryani%20classes)
+| BMI | Body Mass Index | [Question](https://www.codechef.com/problems/BMI) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/BMI%20-%20Body%20Mass%20Index)
+| BROKENPHONE | Broken Phone | [Question](https://www.codechef.com/problems/BROKENPHONE) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/BROKENPHONE%20-%20Broken%20Phone)
+| BRUNCH | Sunday Brunch | [Question](https://www.codechef.com/problems/BRUNCH) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/BRUNCH%20-%20Sunday%20Brunch)
+| BTRYHLTH | Battery Health | [Question](https://www.codechef.com/problems/BTRYHLTH) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/BTRYHLTH%20-%20Battery%20Health)
+| BULLET | Mario and Bullet | [Question](https://www.codechef.com/problems/BULLET) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/BULLET%20-%20Mario%20and%20Bullet)
+| BURGERS | Burgers | [Question](https://www.codechef.com/problems/BURGERS) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/BURGERS%20-%20Burgers)
+| CBSPEED | Chef and Brain Speed | [Question](https://www.codechef.com/problems/CBSPEED) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/CBSPEED%20-%20Chef%20and%20Brain%20Speed)
+| CHEFBOTTLE | Chef and Water Bottles | [Question](https://www.codechef.com/problems/CHEFBOTTLE) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/CHEFBOTTLE%20-%20Chef%20and%20Water%20Bottles)
+| CHEFCAND | Chef and Candies | [Question](https://www.codechef.com/problems/CHEFCAND) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/CHEFCAND%20-%20Chef%20and%20Candies)
+| CHEFDETE | Chef-Detective | [Question](https://www.codechef.com/problems/CHEFDETE) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/CHEFDETE%20-%20Chef-Detective)
+| CHEFGAMES | Chefland Games | [Question](https://www.codechef.com/problems/CHEFGAMES) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/CHEFGAMES%20-%20Chefland%20Games)
+| CHEFONDATE | Chef On Date | [Question](https://www.codechef.com/problems/CHEFONDATE) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/CHEFONDATE%20-%20Chef%20On%20Date)
+| CHESSTIME | Chess Time | [Question](https://www.codechef.com/problems/CHESSTIME) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/CHESSTIME%20-%20Chess%20Time)
+| CHN15A | Mutated Minions | [Question](https://www.codechef.com/problems/CHN15A) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/CHN15A%20-%20Mutated%20Minions)
+| CHOPRT | Chef And Operators | [Question](https://www.codechef.com/problems/CHOPRT) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/CHOPRT%20-%20Chef%20And%20Operators)
+| CNDY | Candies | [Question](https://www.codechef.com/problems/CNDY) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/CNDY%20-%20Candies)
+| CNTWORD | Counting Words | [Question](https://www.codechef.com/problems/CNTWRD) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/CNTWORD%20-%20Counting%20Words)
+| CRICMATCH | Cricket Match | [Question](https://www.codechef.com/problems/CRICMATCH) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/CRICMATCH%20-%20Cricket%20Match)
+| CS2023_GIFT | The Gift | [Question](https://www.codechef.com/problems/CS2023_GIFT) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/CS2023_GIFT%20-%20The%20Gift)
+| CS2023_GYM | Gymkhana Election IIIT-A | [Question](https://www.codechef.com/START94D/problems/CS2023_GYM) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/CS2023_GYM%20-%20Gymkhana%20Election%20IIIT-A)
+| CS2023_STK | CodeChef Streak | [Question](https://www.codechef.com/START94D/problems/CS2023_STK) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/CS2023_STK%20-%20CodeChef%20Streak)
+| DETSCORE | Determine the Score | [Question](https://www.codechef.com/problems/DETSCORE) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/DETSCORE%20-%20Determine%20the%20Score)
+| DICEGAME2 | Best of Two | [Question](https://www.codechef.com/START97D/problems/DICEGAME2) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/DICEGAME2%20-%20Best%20of%20Two)
+| DICENUM | Dice Number | [Question](https://www.codechef.com/problems/DICENUM) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/DICENUM%20-%20Dice%20Number)
+| DIVISIBLEBY8 | Divisible By 8 | [Question](https://www.codechef.com/problems/DIVISIBLEBY8) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/DIVISIBLEBY8%20-%20Divisible%20By%208)
+| DOLL | Red Light, Green Light | [Question](https://www.codechef.com/problems/DOLL) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/DOLL%20-%20Red%20Light,%20Green%20Light)
+| EXPERT | Expert Setter | [Question](https://www.codechef.com/problems/EXPERT) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/EXPERT%20-%20Expert%20Setter)
+| EXPIRY | Expiring Bread | [Question](https://www.codechef.com/problems/EXPIRY) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/EXPIRY%20-%20Expiring%20Bread)
+| EZSPEAK | Easy Pronunciation | [Question](https://www.codechef.com/problems/EZSPEAK) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/EZSPEAK%20-%20Easy%20Pronunciation)
+| FIT | Fitness | [Question](https://www.codechef.com/problems/FIT) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/FIT%20-%20Fitness)
+| FLOW001 | Add Two Numbers | [Question](https://www.codechef.com/problems/FLOW001) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/FLOW001%20-%20Add%20Two%20Numbers)
+| FLOW002 | Find Remainder | [Question](https://www.codechef.com/problems/FLOW002) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/FLOW002%20-%20Find%20Remainder)
+| FLOW004 | First and Last Digit | [Question](https://www.codechef.com/problems/FLOW004) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/FLOW004%20-%20First%20and%20Last%20Digit)
+| FLOW006 | Sum of Digits | [Question](https://www.codechef.com/problems/FLOW006) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/FLOW006%20-%20Sum%20of%20Digits)
+| FLOW007 | Reverse The Number | [Question](https://www.codechef.com/problems/FLOW007) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/FLOW007%20-%20Reverse%20The%20Number)
+| FLOW010 | ID and Ship | [Question](https://www.codechef.com/problems/FLOW010) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/FLOW010%20-%20ID%20and%20Ship)
+| FLOW013 | Valid Triangles | [Question](https://www.codechef.com/problems/FLOW013) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/FLOW013%20-%20Valid%20Triangles)
+| FSQRT | Finding Square Roots | [Question](https://www.codechef.com/problems/FSQRT) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/FSQRT%20-%20Finding%20Square%20Roots)
+| GCDQ | Gcd Queries | [Question](https://www.codechef.com/problems/GCDQ) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/GCDQ%20-%20Gcd%20Queries)
+| GDTURN | Good Turn | [Question](https://www.codechef.com/problems/GDTURN) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/GDTURN%20-%20Good%20Turn)
+| HAPPYSTR | Chef and Happy String | [Question](https://www.codechef.com/problems/HAPPYSTR) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/HAPPYSTR%20-%20Chef%20and%20Happy%20String)
+| HS08TEST | ATM | [Question](https://www.codechef.com/problems/HS08TEST) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/HS08TEST%20-%20ATM)
+| INCRIQ | Increase IQ | [Question](https://www.codechef.com/problems/INCRIQ) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/INCRIQ%20-%20Increase%20IQ)
+| INSTAGRAM | Instagram | [Question](https://www.codechef.com/problems/INSTAGRAM) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/INSTAGRAM%20-%20Instagram)
+| INTEST | Enormous Input Test | [Question](https://www.codechef.com/problems/INTEST) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/INTEST%20-%20Enormous%20Input%20Test)
+| INVESTMENT | Good Investment or Not | [Question](https://www.codechef.com/problems/INVESTMENT) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/INVESTMENT%20-%20Good%20Investment%20or%20Not)
+| IPLTRSH | IPL Ticket Rush | [Question](https://www.codechef.com/problems/IPLTRSH) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/IPLTRSH%20-%20IPL%20Ticket%20Rush)
+| JERRYCHASE | Tom and Jerry Chase | [Question](https://www.codechef.com/problems/JERRYCHASE) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/JERRYCHASE%20-%20Tom%20and%20Jerry%20Chase)
+| KITCHENTIME | Kitchen Timings | [Question](https://www.codechef.com/problems/KITCHENTIME) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/KITCHENTIME%20-%20Kitchen%20Timings)
+| KNGTOUR | Tour of King | [Question](https://www.codechef.com/problems/KNGTOR) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/KNGTOUR%20-%20Tour%20of%20King)
+| LUCKFOUR | Lucky Four | [Question](https://www.codechef.com/problems/LUCKFOUR) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/LUCKFOUR%20-%20Lucky%20Four)
+| LUDO | Chef Plays Ludo | [Question](https://www.codechef.com/problems/LUDO) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/LUDO%20-%20Chef%20Plays%20Ludo)
+| MINHEIGHT | Roller Coaster | [Question](https://www.codechef.com/problems/MINHEIGHT) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/MINHEIGHT%20-%20Roller%20Coaster)
+| MINN00 | Minimum Number of Ones | [Question](https://www.codechef.com/problems/MINNOO) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/MINN00%20-%20Minimum%20Number%20of%20Ones)
+| MY1STCONTEST | My very 1st contest! | [Question](https://www.codechef.com/problems/MY1STCONTEST) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/MY1STCONTEST%20-%20My%20very%201st%20contest!)
+| NEGPROD | Negative Product | [Question](https://www.codechef.com/problems/NEGPROD) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/NEGPROD%20-%20Negative%20Product)
+| NUM239 | Counting Pretty Numbers | [Question](https://www.codechef.com/problems/NUM239) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/NUM239%20-%20Counting%20Pretty%20Numbers)
+| OCTOTHON | October Marathon | [Question](https://www.codechef.com/problems/OCTATHON) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/OCTOTHON%20-%20October%20Marathon)
+| PAR2 | Parity | [Question](https://www.codechef.com/problems/PAR2) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/PAR2%20-%20Parity)
+| PILBELLS | Bells of Pilgrimage | [Question](https://www.codechef.com/START96D/problems/PILBELLS) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/PILBELLS%20-%20Bells%20of%20Pilgrimage)
+| PRACLIST | How many unattempted problems | [Question](https://www.codechef.com/problems/PRACLIST) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/PRACLIST%20-%20How%20many%20unattempted%20problems)
+| PRACTICEPERF | Practice makes us perfect | [Question](https://www.codechef.com/problems/PRACTICEPERF) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/PRACTICEPERF%20-%20Practice%20makes%20us%20perfect)
+| PRIZEPOOL | Total Prize Money | [Question](https://www.codechef.com/problems/PRIZEPOOL) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/PRIZEPOOL%20-%20Total%20Prize%20Money)
+| RACE400M | 400M Race | [Question](https://www.codechef.com/problems/RACE400M) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/RACE400M%20-%20400M%20Race)
+| REACHTARGET | Reach the Target | [Question](https://www.codechef.com/problems/REACHTARGET) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/REACHTARGET%20-%20Reach%20the%20Target)
+| RIP2000 | 2000 | [Question](https://www.codechef.com/START97D/problems/RIP2000) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/RIP2000%20-%202000)
+| SALESEASON | Sale Season | [Question](https://www.codechef.com/problems/SALESEASON) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/SALESEASON%20-%20Sale%20Season)
+| SIXFRIENDS | Six Friends | [Question](https://www.codechef.com/problems/SIXFRIENDS) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/SIXFRIENDS%20-%20Six%20Friends)
+| SLEEP | Sleep deprivation | [Question](https://www.codechef.com/problems/SLEEP) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/SLEEP%20-%20Sleep%20deprivation)
+| SQUATS | Squats | [Question](https://www.codechef.com/problems/SQUATS) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/SQUATS%20-%20Squats)
+| START01 | Number Mirror | [Question](https://www.codechef.com/problems/START01) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/START01%20-%20Number%20Mirror)
+| SUGERCANE | Sugarcane Juice Business | [Question](https://www.codechef.com/problems/SUGARCANE) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/SUGERCANE%20-%20Sugarcane%20Juice%20Business)
+| SUPCHEF | The Preparations | [Question](https://www.codechef.com/problems/SUPCHEF) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/SUPCHEF%20-%20The%20Preparations)
+| TALLER | Who is taller! | [Question](https://www.codechef.com/problems/TALLER) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/TALLER%20-%20Who%20is%20taller!)
+| TAXES | Tax in Chefland | [Question](https://www.codechef.com/problems/TAXES) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/TAXES%20-%20Tax%20in%20Chefland)
+| TAXGIVING | Saving Taxes | [Question](https://www.codechef.com/problems/TAXSAVING) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/TAXGIVING%20-%20Saving%20Taxes)
+| TESTAVG | Test Averages | [Question](https://www.codechef.com/problems/TESTAVG) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/TESTAVG%20-%20Test%20Averages)
+| THREETOPICS | The Three Topics | [Question](https://www.codechef.com/problems/THREETOPICS) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/THREETOPICS%20-%20The%20Three%20Topics)
+| TIMELY | Reach on Time | [Question](https://www.codechef.com/problems/TIMELY) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/TIMELY%20-%20Reach%20on%20Time)
+| TODOLIST | Problems in your to-do list | [Question](https://www.codechef.com/problems/TODOLIST) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/TODOLIST%20-%20Problems%20in%20your%20to-do%20list)
+| TRICOIN | Coins and Triangle | [Question](https://www.codechef.com/problems/TRICOIN) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/TRICOIN%20-%20Coins%20and%20Triangle)
+| TRUESCORE | Is the Score Consistent | [Question](https://www.codechef.com/problems/TRUESCORE) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/TRUESCORE%20-%20Is%20the%20Score%20Consistent)
+| TSTROBOT | Testing Robot | [Question](https://www.codechef.com/problems/TSTROBOT) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/TSTROBOT%20-%20Testing%20Robot)
+| WATERCONS | Water Consumption | [Question](https://www.codechef.com/problems/WATERCONS) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/WATERCONS%20-%20Water%20Consumption)
+| WEEDING | Weeding | [Question](https://www.codechef.com/problems/WEEDING) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/WEEDING%20-%20Weeding)
+| WORDLE | Wordle | [Question](https://www.codechef.com/problems/WORDLE) | [Solution](https://github.com/ShazidMashrafi/Codechef-Solutions/tree/master/Codes/WORDLE%20-%20Wordle)
 
 </div>
 
