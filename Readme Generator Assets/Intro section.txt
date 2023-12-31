@@ -8,5 +8,5 @@ This repository contains my solution of Codechef problems. They are in C and C++
 ## Index
 ##### Sorted by Alphabetical order of Problem code
 
-|  Problem Code  |  Problem Name  |  Question  |  Solution  |
-| :------------: | :------------: | :--------: | :--------: |
+|  Index  |  Problem Code  |  Problem Name  |  Question  |  Solution  |
+| :-----: | :------------: | :------------: | :--------: | :--------: |
