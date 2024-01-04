@@ -15,6 +15,7 @@ using namespace std;
 
 #define yes                 cout<<"YES"<<endl
 #define no                  cout<<"NO"<<endl
+#define neg1                cout<<-1<<endl
 
 #define PI                  3.141592653589793238
 #define MIN                 INT_MIN
@@ -58,24 +59,16 @@ void solve()
 {
     int n,x;
     cin>>n>>x;
-    vector<int>v(n);
-    iota(all(v),1);
-    if(n<3 && x==0)
+    if(x>=n-1 && !(x==0 && n==1))
     {
-        for(int i=0; i<n-1; ++i)
-            cout<<v[i]<<" ";
-        cout<<v[n-1]<<endl;
+        neg1;
         return;
     }
-    if(x>n-2)
-    {
-        cout<<-1<<endl;
-        return;
-    }
-    v.insert(v.begin()+n-x-2,n);
-    for(int i=0; i<n-1; ++i)
-        cout<<v[i]<<" ";
-    cout<<v[n-1]<<endl;
+    for(int i=n; i>x+1; --i)
+        cout<<i<<" ";
+    for(int i=1; i<=x+1; ++i)
+        cout<<i<<" ";
+    cout<<endl;
 }
 
 int32_t main()
