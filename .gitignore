@@ -1,3 +1,6 @@
-test/
-To solve/
-Generator.py
+*
+!Codes/
+!Codes/**/*
+!Assets/
+!Assets/**/*
+!Readme.md
